@@ -1,0 +1,7 @@
+{
+  "editor.fontLigatures": true,
+//   "files.exclude": {
+//     "**/node_modules": true
+//   },
+  // "editor.formatOnSave": true
+}
